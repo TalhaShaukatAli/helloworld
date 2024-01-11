@@ -1,5 +1,5 @@
 <?php
-$name= "Talha";
+$name= "Talha Shaukat Ali ( T )";
 ?>
 
 <!DOCTYPE html>
@@ -9,8 +9,9 @@ $name= "Talha";
     <meta name="viewport" content="width=width, initial-scale=1.0">
     <title>Hello World</title>
 </head>
+
 <body>
-    <h1>Hellooo <?php echo $name ?></h1>
+    <h1><?php echo $name ?></h1>
     <!--Navigation---->
     <nav>
         <ul>
@@ -21,13 +22,19 @@ $name= "Talha";
 
     <main>
         <div>
-            <h3> Question 1: Why are you taking this class? </h3>
+            <h2>Main Content Section</h2>
             <p></p>
+        </div>
+
+        <div>
+            <h3> Question 1: Why are you taking this class? </h3>
+            <p> Answer: It's been a couple years since I worked with front end. Excited to get back into it.</p>
             <p></p>
         </div>
 
         <div>
             <h3> Question 2: What do you want to take away from this class? </h3>
+            <p> Answer: Since I am currently a bit rusty in this department, I'm motivated to sharpen my skillset to new levels by the end of this class.</p>
             <p></p>
         </div>
 
