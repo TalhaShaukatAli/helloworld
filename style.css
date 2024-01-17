@@ -1,0 +1,55 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+#w {
+    width: 80%;
+}
+nav {
+    background-color: #5c81bc;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    font-size: large;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+
+}
+
+nav li {
+    display: inline;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 20px;
+    
+}
+
+nav a {
+    text-decoration: none;
+
+}
+
+main {
+    margin-top: 10%;
+    text-align: left;
+}
+
+#AboutMeimg {
+    float: "left";
+    width: 200px;
+    height: 200px;
+    margin-right:10px;
+    border: tan solid 5px;
+    border-radius: 20px;
+  }
+
+  html {
+    background: url(background.png) no-repeat center fixed; 
+    background-size: cover;
+  }
