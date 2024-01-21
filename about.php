@@ -30,7 +30,7 @@ $name= "Talha Shaukat Ali ( T )";
         </div>
 
         <div>
-        <img id="AboutMeimg"src="froglol.png" alt="Frog"><h3> My name is Talha Shaukat Ali. But I prefer to go by T. The story behind this alias came about when I noticed plenty of people struggling to pronounce or remember my name. It's unique and has a nice ring to it so that's the origin story of "T". </h3>
+        <img id="AboutMeimg"src="me.jpeg" alt="Me"><h3> My name is Talha Shaukat Ali. But I prefer to go by T. The story behind this alias came about when I noticed plenty of people struggling to pronounce or remember my name. It's unique and has a nice ring to it so that's the origin story of "T". </h3>
         </div>
 
         <div>
