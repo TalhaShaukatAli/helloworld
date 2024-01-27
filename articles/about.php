@@ -1,7 +1,7 @@
 <?php
 $navArray= array("Home","Assignments","About Me");
 define("URL_ROOT","http://localhost:3000");
-define("ABS_ROOT",$_SERVER['DOCUMENT_ROOT']);
+define("ABS_ROOT",dirname(__FILE__, 2));
 ?>
 
 <?php include_once(ABS_ROOT. "/src/views/head.view.php"); ?>
