@@ -1,7 +1,9 @@
 <?php
 $navArray= array("Home","Assignments","About Me");
-define("URL_ROOT","http://localhost:3000");
-define("ABS_ROOT",dirname(__FILE__));
+$config= parse_ini_file('config.ini',true);
+$environment= $config['ENVIRONMENT'];
+define("URL_ROOT", $config[$environment]["URL_BASE"]);
+define("ABS_ROOT", $config[$environment]["ABS_ROOT"]);
 ?>
 
 <?php include_once(ABS_ROOT. "/src/views/head.view.php"); ?>
