@@ -20,7 +20,7 @@ define("ABS_ROOT",$config[$environment]["ABS_ROOT"]);
             <p> One of my first projects involved making a portfolio website in my Advanced Web Progamming class. We were assigned a task to use PHP and CSS to construct a website with three pages. A home page, an assignments page, and an about me page. As someone who had minimal experience in PHP and CSS at the time, it was still faily simple to get it done. The task assigned to us a couple weeks later involved refactoring the porfolio website using objects. This is also when URL_ROOT and ABS_PATH was introduced to us. Using all of the tools at our disposal, we implemented objects into our portfolio website code. The page you are currently reading this on is an advanced stage of the website which also contains a projects page. </p>
             <h5>Languages Used: PHP, CSS </h5>
             <h5><a href= "https://cs.bemidjistate.edu/tr7251ub"> Website Live Version </a></h5>
-            <h5><a href= "https://github.com/TalhaShaukatAli/helloworld.git"> Link to the GitHub Repository Code </a><h5>
+            
         </div>
 
         <div>
