@@ -1,5 +1,5 @@
 <?php
-$navArray= array("Home","Assignments","About Me");
+$navArray= array("Home","Assignments","Projects","About Me");
 $config= parse_ini_file('../config.ini',true);
 $environment= $config['ENVIRONMENT'];
 define("URL_ROOT", $config[$environment]["URL_BASE"]);
